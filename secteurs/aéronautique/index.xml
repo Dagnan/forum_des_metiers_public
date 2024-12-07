@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Aéronautique on My New Hugo Site</title>
+    <link>http://localhost:1313/secteurs/a%C3%A9ronautique/</link>
+    <description>Recent content in Aéronautique on My New Hugo Site</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>fr</language>
+    <atom:link href="http://localhost:1313/secteurs/a%C3%A9ronautique/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>5BD2E771</title>
+      <link>http://localhost:1313/profiles/5bd2e771/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/profiles/5bd2e771/</guid>
+      <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
+&lt;p&gt;BTS Aéronautique / Ecole d&amp;rsquo;ingénieur Maintenance et Production Industrielle&lt;/p&gt;
+&lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;
+&lt;p&gt;Responsable des réparations sur voilures / Gestionnaire de configuration avion / Combattant du renseignement parachutiste dans les forces spéciales Terre&lt;/p&gt;
+&lt;h3 id=&#34;intéressée-pour-parler-des-sujets&#34;&gt;Intéressé(e) pour parler des sujets&lt;/h3&gt;
+&lt;p&gt;L&amp;rsquo;aéronautique et l&amp;rsquo;Armée de Terre&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A393EC9D</title>
+      <link>http://localhost:1313/profiles/a393ec9d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/profiles/a393ec9d/</guid>
+      <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
+&lt;p&gt;Université de Bordeaux :
+Licence Informatique
+Master Informatique, spécialité Systèmes Autonomes (robots, drones)&lt;/p&gt;
+&lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;
+&lt;p&gt;Développement logiciel, dans l&amp;rsquo;industrie aéronautique et la défense (Thales) -&amp;gt; mon but est de développer des composants qui seront embarqués dans des avions civils et/ou militaires.
+J&amp;rsquo;ai également fait un stage dans une petite start-up où j&amp;rsquo;ai dû développer des outils web, et un stage dans un laboratoire de recherche public où le but était de trouver des technologies permettant de localiser un drone au centimètre près.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

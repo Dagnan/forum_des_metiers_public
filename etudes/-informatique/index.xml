@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title> Informatique on My New Hugo Site</title>
+    <link>http://localhost:1313/etudes/-informatique/</link>
+    <description>Recent content in  Informatique on My New Hugo Site</description>
+    <generator>Hugo -- 0.135.0</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/etudes/-informatique/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1545CE42</title>
+      <link>http://localhost:1313/profiles/1545ce42/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/profiles/1545ce42/</guid>
+      <description>&lt;p&gt;École d&amp;rsquo;ingénieur en informatique (CY-TECH) dont 2 ans de prépa intégrée, à Pau → Diplôme ingénieur en information
+Diplome d&amp;rsquo;administration des entreprises (IAE de Pau)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>585E5AE3</title>
+      <link>http://localhost:1313/profiles/585e5ae3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/profiles/585e5ae3/</guid>
+      <description>&lt;p&gt;DUT Gestion Entreprises et Administration à Bordeaux, option petites et moyennes organisations
+Puis master grande école, Institut Mines Telecom Business School spécialité Ingénierie des Système d’Information (en majeure commune à l’école d’ingénieur Telecom SudParis)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A393EC9D</title>
+      <link>http://localhost:1313/profiles/a393ec9d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/profiles/a393ec9d/</guid>
+      <description>&lt;p&gt;Université de Bordeaux :
+Licence Informatique
+Master Informatique, spécialité Systèmes Autonomes (robots, drones)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

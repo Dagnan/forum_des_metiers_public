@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Professions on My New Hugo Site</title>
+    <link>http://localhost:1313/professions/</link>
+    <description>Recent content in Professions on My New Hugo Site</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>fr</language>
+    <atom:link href="http://localhost:1313/professions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Avocat</title>
+      <link>http://localhost:1313/professions/avocat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professions/avocat/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chargé De Communication</title>
+      <link>http://localhost:1313/professions/charg%C3%A9-de-communication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professions/charg%C3%A9-de-communication/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chargé De Mission Sur La Gestion Des Sols</title>
+      <link>http://localhost:1313/professions/charg%C3%A9-de-mission-sur-la-gestion-des-sols/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professions/charg%C3%A9-de-mission-sur-la-gestion-des-sols/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chargée D&#39;études en Santé Publique</title>
+      <link>http://localhost:1313/professions/charg%C3%A9e-d%C3%A9tudes-en-sant%C3%A9-publique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professions/charg%C3%A9e-d%C3%A9tudes-en-sant%C3%A9-publique/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Charpentier</title>
+      <link>http://localhost:1313/professions/charpentier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professions/charpentier/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chef De Service Enfance Jeunesse Et Sport</title>
+      <link>http://localhost:1313/professions/chef-de-service-enfance-jeunesse-et-sport/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professions/chef-de-service-enfance-jeunesse-et-sport/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chirurgien Dentiste</title>
+      <link>http://localhost:1313/professions/chirurgien-dentiste/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professions/chirurgien-dentiste/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Commercial</title>
+      <link>http://localhost:1313/professions/commercial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professions/commercial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Consultant en Transformation</title>
+      <link>http://localhost:1313/professions/consultant-en-transformation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professions/consultant-en-transformation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Développement Logiciel</title>
+      <link>http://localhost:1313/professions/d%C3%A9veloppement-logiciel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professions/d%C3%A9veloppement-logiciel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Directeur</title>
+      <link>http://localhost:1313/professions/directeur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professions/directeur/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docteur en Droit De La Forêt</title>
+      <link>http://localhost:1313/professions/docteur-en-droit-de-la-for%C3%AAt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professions/docteur-en-droit-de-la-for%C3%AAt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docteur en L&#39;Agroforesterie</title>
+      <link>http://localhost:1313/professions/docteur-en-lagroforesterie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professions/docteur-en-lagroforesterie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dosimétriste</title>
+      <link>http://localhost:1313/professions/dosim%C3%A9triste/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professions/dosim%C3%A9triste/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Génie Civil</title>
+      <link>http://localhost:1313/professions/g%C3%A9nie-civil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professions/g%C3%A9nie-civil/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guide Touristique</title>
+      <link>http://localhost:1313/professions/guide-touristique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professions/guide-touristique/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Infirrmier</title>
+      <link>http://localhost:1313/professions/infirrmier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professions/infirrmier/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Informatique</title>
+      <link>http://localhost:1313/professions/informatique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professions/informatique/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ingénieur Simulation Numérique Et Responsable Prestation Aérodynamique Chez Renault Trucks</title>
+      <link>http://localhost:1313/professions/ing%C3%A9nieur-simulation-num%C3%A9rique-et-responsable-prestation-a%C3%A9rodynamique-chez-renault-trucks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professions/ing%C3%A9nieur-simulation-num%C3%A9rique-et-responsable-prestation-a%C3%A9rodynamique-chez-renault-trucks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ingénieur Technico-Commercial</title>
+      <link>http://localhost:1313/professions/ing%C3%A9nieur-technico-commercial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professions/ing%C3%A9nieur-technico-commercial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Journaliste</title>
+      <link>http://localhost:1313/professions/journaliste/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professions/journaliste/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Médiateur Culturelle Et Artistique</title>
+      <link>http://localhost:1313/professions/m%C3%A9diateur-culturelle-et-artistique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professions/m%C3%A9diateur-culturelle-et-artistique/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Médiateur Scientifique</title>
+      <link>http://localhost:1313/professions/m%C3%A9diateur-scientifique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professions/m%C3%A9diateur-scientifique/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Professeur Des Écoles</title>
+      <link>http://localhost:1313/professions/professeur-des-%C3%A9coles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professions/professeur-des-%C3%A9coles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Psychomotricien</title>
+      <link>http://localhost:1313/professions/psychomotricien/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professions/psychomotricien/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Responsable Recrutement</title>
+      <link>http://localhost:1313/professions/responsable-recrutement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professions/responsable-recrutement/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Soin</title>
+      <link>http://localhost:1313/professions/soin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professions/soin/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

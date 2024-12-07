@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>BAC&#43;2 on My New Hugo Site</title>
+    <link>http://localhost:1313/etudes/bac&#43;2/</link>
+    <description>Recent content in BAC&#43;2 on My New Hugo Site</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>fr</language>
+    <atom:link href="http://localhost:1313/etudes/bac+2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AE2BBD50</title>
+      <link>http://localhost:1313/profiles/ae2bbd50/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/profiles/ae2bbd50/</guid>
+      <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
+&lt;p&gt;BAC S, L1 mathématiques fondamentales, BTS NDRC&lt;/p&gt;
+&lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;
+&lt;p&gt;Commerciale dans l&amp;rsquo;objet promotionnel et le textile publicaire / réponse à des appels d&amp;rsquo;offres&lt;/p&gt;
+&lt;h3 id=&#34;intéressée-pour-parler-des-sujets&#34;&gt;Intéressé(e) pour parler des sujets&lt;/h3&gt;
+&lt;p&gt;Changement de voie lors des études post BAC&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

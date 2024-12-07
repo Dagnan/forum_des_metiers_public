@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Charpentier on My New Hugo Site</title>
+    <link>http://localhost:1313/professions/charpentier/</link>
+    <description>Recent content in Charpentier on My New Hugo Site</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>fr</language>
+    <atom:link href="http://localhost:1313/professions/charpentier/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>28471F68</title>
+      <link>http://localhost:1313/profiles/28471f68/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/profiles/28471f68/</guid>
+      <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
+&lt;p&gt;Initialement formation de charpente. Reconversion Universitaire en STAPS.
+Détenteur d&amp;rsquo;une Licence STAPS Entraînement Sportif. Actuellement en Master Entraînement et Optimisation de la Performance Sportive, mention Monitoring et Facteur Humain&lt;/p&gt;
+&lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;
+&lt;p&gt;Charpentier.&lt;/p&gt;
+&lt;p&gt;Préparateur physique (stage) : encadrement et accompagnement de sportifs. Conception et mise en place de programme d&amp;rsquo;entraînement visant à développer les qualités physiques des sportifs.&lt;/p&gt;
+&lt;p&gt;Actuellement orienté vers la recherche. Stage à venir : Analyse des mouvements rapides dans une tâche en réalité virtuelle.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

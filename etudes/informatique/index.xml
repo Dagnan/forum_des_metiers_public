@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Informatique on My New Hugo Site</title>
+    <link>http://localhost:1313/etudes/informatique/</link>
+    <description>Recent content in Informatique on My New Hugo Site</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>fr</language>
+    <atom:link href="http://localhost:1313/etudes/informatique/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1545CE42</title>
+      <link>http://localhost:1313/profiles/1545ce42/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/profiles/1545ce42/</guid>
+      <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
+&lt;p&gt;École d&amp;rsquo;ingénieur en informatique (CY-TECH) dont 2 ans de prépa intégrée, à Pau → Diplôme ingénieur en information
+Diplome d&amp;rsquo;administration des entreprises (IAE de Pau)&lt;/p&gt;
+&lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;
+&lt;p&gt;3 métiers exercés en France et aux États-Unis (San Francisco):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Développeur logiciel (software engineering), avec une spécialité en &amp;ldquo;&amp;ldquo;backend&amp;rdquo;. Chargé de gérer des projets et de concevoir des logiciels en ligne (par exemple : jeux en ligne, gestion client CRM, application de géolocalisation et régie publicitaire, outil de support, outil de collaboration type tableau blanc en temps réel)&lt;/li&gt;
+&lt;li&gt;Manager (software engineering manager) → gestion directe d&amp;rsquo;ingénieurs en développement logiciel, chargé du suivi de tous les projets, de l&amp;rsquo;évolution de l&amp;rsquo;équipe, des performances, etc.&lt;/li&gt;
+&lt;li&gt;Manager de manager (software engineering director) → gestion de managers, et indirectement de plusieurs équipes d&amp;rsquo;ingénieurs en développement logiciel, avec une croissance de 2 personnes a 30.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;intéressée-pour-parler-des-sujets&#34;&gt;Intéressé(e) pour parler des sujets&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Travailler aux États-Unis&lt;/li&gt;
+&lt;li&gt;Management&lt;/li&gt;
+&lt;li&gt;Développement logiciel&lt;/li&gt;
+&lt;li&gt;Monter sa start-up en France&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>585E5AE3</title>
+      <link>http://localhost:1313/profiles/585e5ae3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/profiles/585e5ae3/</guid>
+      <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
+&lt;p&gt;DUT Gestion Entreprises et Administration à Bordeaux, option petites et moyennes organisations
+Puis master grande école, Institut Mines Telecom Business School spécialité Ingénierie des Système d’Information (en majeure commune à l’école d’ingénieur Telecom SudParis)&lt;/p&gt;
+&lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;
+&lt;p&gt;Consultant en transformation (consultant pendant 4 ans, puis consultant senior pendant 2,5 ans, puis manager depuis 2 mois ;)) : intervenir auprès des grandes banques et assurances françaises pour les aider dans leurs projets de transformation (ex : refonte d’une application mobile, mise en place d’un chatbot client…)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A393EC9D</title>
+      <link>http://localhost:1313/profiles/a393ec9d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/profiles/a393ec9d/</guid>
+      <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
+&lt;p&gt;Université de Bordeaux :
+Licence Informatique
+Master Informatique, spécialité Systèmes Autonomes (robots, drones)&lt;/p&gt;
+&lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;
+&lt;p&gt;Développement logiciel, dans l&amp;rsquo;industrie aéronautique et la défense (Thales) -&amp;gt; mon but est de développer des composants qui seront embarqués dans des avions civils et/ou militaires.
+J&amp;rsquo;ai également fait un stage dans une petite start-up où j&amp;rsquo;ai dû développer des outils web, et un stage dans un laboratoire de recherche public où le but était de trouver des technologies permettant de localiser un drone au centimètre près.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

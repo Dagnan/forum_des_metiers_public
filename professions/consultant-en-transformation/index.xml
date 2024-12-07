@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Consultant en Transformation on My New Hugo Site</title>
+    <link>http://localhost:1313/professions/consultant-en-transformation/</link>
+    <description>Recent content in Consultant en Transformation on My New Hugo Site</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>fr</language>
+    <atom:link href="http://localhost:1313/professions/consultant-en-transformation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>585E5AE3</title>
+      <link>http://localhost:1313/profiles/585e5ae3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/profiles/585e5ae3/</guid>
+      <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
+&lt;p&gt;DUT Gestion Entreprises et Administration à Bordeaux, option petites et moyennes organisations
+Puis master grande école, Institut Mines Telecom Business School spécialité Ingénierie des Système d’Information (en majeure commune à l’école d’ingénieur Telecom SudParis)&lt;/p&gt;
+&lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;
+&lt;p&gt;Consultant en transformation (consultant pendant 4 ans, puis consultant senior pendant 2,5 ans, puis manager depuis 2 mois ;)) : intervenir auprès des grandes banques et assurances françaises pour les aider dans leurs projets de transformation (ex : refonte d’une application mobile, mise en place d’un chatbot client…)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
