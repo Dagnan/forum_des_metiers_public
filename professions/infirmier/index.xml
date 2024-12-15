@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Infirmier on Annuaire Des Lycéens de Bazas</title>
-    <link>http://localhost:1313/professions/infirmier/</link>
+    <link>https://annuairedeslyceensdebazas.fr/professions/infirmier/</link>
     <description>Recent content in Infirmier on Annuaire Des Lycéens de Bazas</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>fr</language>
-    <atom:link href="http://localhost:1313/professions/infirmier/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://annuairedeslyceensdebazas.fr/professions/infirmier/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>278C107F</title>
-      <link>http://localhost:1313/profiles/278c107f/</link>
+      <link>https://annuairedeslyceensdebazas.fr/profiles/278c107f/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/profiles/278c107f/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/profiles/278c107f/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;Infirmière diplôme d’état (3ans) -&amp;gt; concours pour rentrer en école de puéricultrice pendant la 3eme année d’école d’infirmière -&amp;gt; puéricultrice (1ans)&lt;/p&gt;
 &lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;
@@ -21,9 +21,9 @@
     </item>
     <item>
       <title>A38ACFE4</title>
-      <link>http://localhost:1313/profiles/a38acfe4/</link>
+      <link>https://annuairedeslyceensdebazas.fr/profiles/a38acfe4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/profiles/a38acfe4/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/profiles/a38acfe4/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;2014-2015 Prépa PCSi
 2015-2016 Licence 2 Chimie

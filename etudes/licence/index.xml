@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Licence on Annuaire Des Lycéens de Bazas</title>
-    <link>http://localhost:1313/etudes/licence/</link>
+    <link>https://annuairedeslyceensdebazas.fr/etudes/licence/</link>
     <description>Recent content in Licence on Annuaire Des Lycéens de Bazas</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>fr</language>
-    <atom:link href="http://localhost:1313/etudes/licence/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://annuairedeslyceensdebazas.fr/etudes/licence/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>5816C1BE</title>
-      <link>http://localhost:1313/profiles/5816c1be/</link>
+      <link>https://annuairedeslyceensdebazas.fr/profiles/5816c1be/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/profiles/5816c1be/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/profiles/5816c1be/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;Licence 2b2m (biologie moléculaire, microbiologie et biochimie) puis Master anglophone SFB (structural and functional biochemistry)&lt;/p&gt;
 &lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;
@@ -22,9 +22,9 @@ Et je réalise des prestations  d&amp;rsquo;analyse globale de lipides sur des s
     </item>
     <item>
       <title>A2892177</title>
-      <link>http://localhost:1313/profiles/a2892177/</link>
+      <link>https://annuairedeslyceensdebazas.fr/profiles/a2892177/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/profiles/a2892177/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/profiles/a2892177/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;PASS puis L2 de biologie&lt;/p&gt;
 &lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;
