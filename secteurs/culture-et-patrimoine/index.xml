@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Culture Et Patrimoine on Annuaire Des Lycéens de Bazas</title>
-    <link>https://annuairedeslyceensdebazas.fr/secteurs/culture-et-patrimoine/</link>
+    <link>http://localhost:1313/secteurs/culture-et-patrimoine/</link>
     <description>Recent content in Culture Et Patrimoine on Annuaire Des Lycéens de Bazas</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>fr</language>
-    <atom:link href="https://annuairedeslyceensdebazas.fr/secteurs/culture-et-patrimoine/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/secteurs/culture-et-patrimoine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2E871DB6</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/2e871db6/</link>
+      <link>http://localhost:1313/profiles/2e871db6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/2e871db6/</guid>
+      <guid>http://localhost:1313/profiles/2e871db6/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;2017-2019 : paces
 2021-2022 : service civique
@@ -23,9 +23,9 @@
     </item>
     <item>
       <title>C4B07081</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/c4b07081/</link>
+      <link>http://localhost:1313/profiles/c4b07081/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/c4b07081/</guid>
+      <guid>http://localhost:1313/profiles/c4b07081/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;Bac +3 à l&amp;rsquo;Icart (école privée) mais aujourd&amp;rsquo;hui 9 ans d&amp;rsquo;expérience professionnelle dans le public + formatrice&lt;/p&gt;
 &lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;
@@ -34,9 +34,9 @@
     </item>
     <item>
       <title>F7EAC3C1</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/f7eac3c1/</link>
+      <link>http://localhost:1313/profiles/f7eac3c1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/f7eac3c1/</guid>
+      <guid>http://localhost:1313/profiles/f7eac3c1/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;DU Physique-Chimie Parcours international (parcoursup)
 Licence STAPS Entraînement Sportif (réorientation)

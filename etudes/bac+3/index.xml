@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>BAC&#43;3 on Annuaire Des Lycéens de Bazas</title>
-    <link>https://annuairedeslyceensdebazas.fr/etudes/bac&#43;3/</link>
+    <link>http://localhost:1313/etudes/bac&#43;3/</link>
     <description>Recent content in BAC&#43;3 on Annuaire Des Lycéens de Bazas</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>fr</language>
-    <atom:link href="https://annuairedeslyceensdebazas.fr/etudes/bac+3/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/etudes/bac+3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>0C1048E1</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/0c1048e1/</link>
+      <link>http://localhost:1313/profiles/0c1048e1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/0c1048e1/</guid>
+      <guid>http://localhost:1313/profiles/0c1048e1/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;Licence Staps Activités adaptées et santé
 Concours Caporal de sapeur pompier professionnel&lt;/p&gt;
@@ -23,9 +23,9 @@ Préparation aux épreuves du concours de sapeur pompier, fonctionnement du mét
     </item>
     <item>
       <title>0D781948</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/0d781948/</link>
+      <link>http://localhost:1313/profiles/0d781948/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/0d781948/</guid>
+      <guid>http://localhost:1313/profiles/0d781948/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;Licence pro DORA (DOsimetrie et Radioprotection médicale)&lt;/p&gt;
 &lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;
@@ -35,9 +35,9 @@ Préparation aux épreuves du concours de sapeur pompier, fonctionnement du mét
     </item>
     <item>
       <title>278C107F</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/278c107f/</link>
+      <link>http://localhost:1313/profiles/278c107f/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/278c107f/</guid>
+      <guid>http://localhost:1313/profiles/278c107f/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;Infirmière diplôme d’état (3ans) -&amp;gt; concours pour rentrer en école de puéricultrice pendant la 3eme année d’école d’infirmière -&amp;gt; puéricultrice (1ans)&lt;/p&gt;
 &lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;
@@ -47,9 +47,9 @@ Préparation aux épreuves du concours de sapeur pompier, fonctionnement du mét
     </item>
     <item>
       <title>37CC0351</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/37cc0351/</link>
+      <link>http://localhost:1313/profiles/37cc0351/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/37cc0351/</guid>
+      <guid>http://localhost:1313/profiles/37cc0351/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Licence 1 et 2 de Droit validées à l&amp;rsquo;Université de Pau et des Pays de l&amp;rsquo;Adour (Bayonne)&lt;/li&gt;
@@ -63,9 +63,9 @@ En quelques mots, mon rôle, en tant que chargé de communication et d&amp;rsquo
     </item>
     <item>
       <title>3A80471B</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/3a80471b/</link>
+      <link>http://localhost:1313/profiles/3a80471b/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/3a80471b/</guid>
+      <guid>http://localhost:1313/profiles/3a80471b/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;DUT Gestion Logistique et Transport
 Diplôme d&amp;rsquo;État de la Jeunesse, de l&amp;rsquo;Éducation Populaire et du Sport mention animation sociologie culturelle et spécialité Développement de Projet, Territoire et Réseaux (DEJEPS DPTR)
@@ -80,9 +80,9 @@ Boutique de soins naturels à venir (février 2025)&lt;/p&gt;
     </item>
     <item>
       <title>5816C1BE</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/5816c1be/</link>
+      <link>http://localhost:1313/profiles/5816c1be/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/5816c1be/</guid>
+      <guid>http://localhost:1313/profiles/5816c1be/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;Licence 2b2m (biologie moléculaire, microbiologie et biochimie) puis Master anglophone SFB (structural and functional biochemistry)&lt;/p&gt;
 &lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;
@@ -93,9 +93,9 @@ Et je réalise des prestations  d&amp;rsquo;analyse globale de lipides sur des s
     </item>
     <item>
       <title>8CF89F1F</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/8cf89f1f/</link>
+      <link>http://localhost:1313/profiles/8cf89f1f/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/8cf89f1f/</guid>
+      <guid>http://localhost:1313/profiles/8cf89f1f/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;Licence de Psychologie (Bordeaux / Prague) + Master MEEF option Professeur des écoles + Certificat de capacité en Orthoptie (obtention juillet 2024)&lt;/p&gt;
 &lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;
@@ -104,9 +104,9 @@ Et je réalise des prestations  d&amp;rsquo;analyse globale de lipides sur des s
     </item>
     <item>
       <title>981019D4</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/981019d4/</link>
+      <link>http://localhost:1313/profiles/981019d4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/981019d4/</guid>
+      <guid>http://localhost:1313/profiles/981019d4/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;Dut génie mécanique et productive
 Licence professionnelle maintenance aéronautique
@@ -123,9 +123,9 @@ Sous officier de l&amp;rsquo;armée de l&amp;rsquo;air, mécanique avion de chas
     </item>
     <item>
       <title>99D69231</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/99d69231/</link>
+      <link>http://localhost:1313/profiles/99d69231/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/99d69231/</guid>
+      <guid>http://localhost:1313/profiles/99d69231/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;BUT MMI Bordeaux (Métiers du multimédia et de l&amp;rsquo;internet) [formation axée autours de la creation multimedia, video, son, jeu video, le developpement, la communication etc&amp;hellip;]&lt;/p&gt;
 &lt;p&gt;L&amp;rsquo;école 42 (école d&amp;rsquo;informatique innovante, fondée par xavier niel) [J&amp;rsquo;ai fais mon cursus autours de la cybersécurité, du web et du jeu vidéo]&lt;/p&gt;
@@ -135,9 +135,9 @@ Sous officier de l&amp;rsquo;armée de l&amp;rsquo;air, mécanique avion de chas
     </item>
     <item>
       <title>A38ACFE4</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/a38acfe4/</link>
+      <link>http://localhost:1313/profiles/a38acfe4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/a38acfe4/</guid>
+      <guid>http://localhost:1313/profiles/a38acfe4/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;2014-2015 Prépa PCSi
 2015-2016 Licence 2 Chimie
@@ -149,9 +149,9 @@ Sous officier de l&amp;rsquo;armée de l&amp;rsquo;air, mécanique avion de chas
     </item>
     <item>
       <title>A6007D56</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/a6007d56/</link>
+      <link>http://localhost:1313/profiles/a6007d56/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/a6007d56/</guid>
+      <guid>http://localhost:1313/profiles/a6007d56/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;Diplome d&amp;rsquo;état psychomotricité&lt;/p&gt;
 &lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;
@@ -164,9 +164,9 @@ Mailing - RH - integrations comptables - facturation et relance client - relatio
     </item>
     <item>
       <title>B692FD07</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/b692fd07/</link>
+      <link>http://localhost:1313/profiles/b692fd07/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/b692fd07/</guid>
+      <guid>http://localhost:1313/profiles/b692fd07/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;BAC scientifique au lycée de Bazas, BTS Audiovisuel options Image au lycée des Arènes de Toulouse (tournage caméra, lumière, réalisation&amp;hellip;), Licence Information-Communication à Bordeaux 3, DUT et Licence pro de Journalisme à l&amp;rsquo;EPJT (Ecole Publique de Journalisme de Tours)&lt;/p&gt;
 &lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;
@@ -174,9 +174,9 @@ Mailing - RH - integrations comptables - facturation et relance client - relatio
     </item>
     <item>
       <title>C4B07081</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/c4b07081/</link>
+      <link>http://localhost:1313/profiles/c4b07081/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/c4b07081/</guid>
+      <guid>http://localhost:1313/profiles/c4b07081/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;Bac +3 à l&amp;rsquo;Icart (école privée) mais aujourd&amp;rsquo;hui 9 ans d&amp;rsquo;expérience professionnelle dans le public + formatrice&lt;/p&gt;
 &lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;

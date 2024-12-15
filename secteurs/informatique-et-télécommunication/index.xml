@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Informatique Et Télécommunication on Annuaire Des Lycéens de Bazas</title>
-    <link>https://annuairedeslyceensdebazas.fr/secteurs/informatique-et-t%C3%A9l%C3%A9communication/</link>
+    <link>http://localhost:1313/secteurs/informatique-et-t%C3%A9l%C3%A9communication/</link>
     <description>Recent content in Informatique Et Télécommunication on Annuaire Des Lycéens de Bazas</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>fr</language>
-    <atom:link href="https://annuairedeslyceensdebazas.fr/secteurs/informatique-et-t%C3%A9l%C3%A9communication/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/secteurs/informatique-et-t%C3%A9l%C3%A9communication/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1545CE42</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/1545ce42/</link>
+      <link>http://localhost:1313/profiles/1545ce42/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/1545ce42/</guid>
+      <guid>http://localhost:1313/profiles/1545ce42/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;École d&amp;rsquo;ingénieur en informatique (CY-TECH) dont 2 ans de prépa intégrée, à Pau → Diplôme ingénieur en information
 Diplome d&amp;rsquo;administration des entreprises (IAE de Pau)&lt;/p&gt;
@@ -32,9 +32,9 @@ Diplome d&amp;rsquo;administration des entreprises (IAE de Pau)&lt;/p&gt;
     </item>
     <item>
       <title>585E5AE3</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/585e5ae3/</link>
+      <link>http://localhost:1313/profiles/585e5ae3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/585e5ae3/</guid>
+      <guid>http://localhost:1313/profiles/585e5ae3/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;DUT Gestion Entreprises et Administration à Bordeaux, option petites et moyennes organisations
 Puis master grande école, Institut Mines Telecom Business School spécialité Ingénierie des Système d’Information (en majeure commune à l’école d’ingénieur Telecom SudParis)&lt;/p&gt;
@@ -43,9 +43,9 @@ Puis master grande école, Institut Mines Telecom Business School spécialité I
     </item>
     <item>
       <title>75099AD1</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/75099ad1/</link>
+      <link>http://localhost:1313/profiles/75099ad1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/75099ad1/</guid>
+      <guid>http://localhost:1313/profiles/75099ad1/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;MANAA - Ecole Olivier de Serres, Paris (Mise à Niveau en Art Appliqués)
 BTS - Ecole Estienne, Paris (Arts appliqués, digital media)
@@ -57,9 +57,9 @@ MA - Central Saint Martins, Londres (digital media)&lt;/p&gt;
     </item>
     <item>
       <title>8CC2B04B</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/8cc2b04b/</link>
+      <link>http://localhost:1313/profiles/8cc2b04b/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/8cc2b04b/</guid>
+      <guid>http://localhost:1313/profiles/8cc2b04b/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;Prépa au lycée Montaigne à Bordeaux
 Diplôme d&amp;rsquo;ingénieur à CentraleSupélec&lt;/p&gt;
@@ -70,9 +70,9 @@ Diplôme d&amp;rsquo;ingénieur à CentraleSupélec&lt;/p&gt;
     </item>
     <item>
       <title>91197251</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/91197251/</link>
+      <link>http://localhost:1313/profiles/91197251/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/91197251/</guid>
+      <guid>http://localhost:1313/profiles/91197251/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;
 &lt;p&gt;Cheffe de Projet IT à la DSI de Wavestone : mon rôle est d’assurer le bon fonctionnement quotidien des outils informatiques de l’entreprise, et de mener des projets pour les améliorer sur le long terme.&lt;/p&gt;
@@ -84,9 +84,9 @@ Le monde du conseil (qu’est ce qu’un cabinet de conseil ? Que font les consu
     </item>
     <item>
       <title>99D69231</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/99d69231/</link>
+      <link>http://localhost:1313/profiles/99d69231/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/99d69231/</guid>
+      <guid>http://localhost:1313/profiles/99d69231/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;BUT MMI Bordeaux (Métiers du multimédia et de l&amp;rsquo;internet) [formation axée autours de la creation multimedia, video, son, jeu video, le developpement, la communication etc&amp;hellip;]&lt;/p&gt;
 &lt;p&gt;L&amp;rsquo;école 42 (école d&amp;rsquo;informatique innovante, fondée par xavier niel) [J&amp;rsquo;ai fais mon cursus autours de la cybersécurité, du web et du jeu vidéo]&lt;/p&gt;
@@ -96,9 +96,9 @@ Le monde du conseil (qu’est ce qu’un cabinet de conseil ? Que font les consu
     </item>
     <item>
       <title>A393EC9D</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/a393ec9d/</link>
+      <link>http://localhost:1313/profiles/a393ec9d/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/a393ec9d/</guid>
+      <guid>http://localhost:1313/profiles/a393ec9d/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;Université de Bordeaux :
 Licence Informatique

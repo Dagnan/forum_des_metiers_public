@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Professeur Des Écoles on Annuaire Des Lycéens de Bazas</title>
-    <link>https://annuairedeslyceensdebazas.fr/professions/professeur-des-%C3%A9coles/</link>
+    <link>http://localhost:1313/professions/professeur-des-%C3%A9coles/</link>
     <description>Recent content in Professeur Des Écoles on Annuaire Des Lycéens de Bazas</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>fr</language>
-    <atom:link href="https://annuairedeslyceensdebazas.fr/professions/professeur-des-%C3%A9coles/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/professions/professeur-des-%C3%A9coles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>8CF89F1F</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/8cf89f1f/</link>
+      <link>http://localhost:1313/profiles/8cf89f1f/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/8cf89f1f/</guid>
+      <guid>http://localhost:1313/profiles/8cf89f1f/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;Licence de Psychologie (Bordeaux / Prague) + Master MEEF option Professeur des écoles + Certificat de capacité en Orthoptie (obtention juillet 2024)&lt;/p&gt;
 &lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;

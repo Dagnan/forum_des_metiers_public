@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>BTS on Annuaire Des Lycéens de Bazas</title>
-    <link>https://annuairedeslyceensdebazas.fr/etudes/bts/</link>
+    <link>http://localhost:1313/etudes/bts/</link>
     <description>Recent content in BTS on Annuaire Des Lycéens de Bazas</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>fr</language>
-    <atom:link href="https://annuairedeslyceensdebazas.fr/etudes/bts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/etudes/bts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>75099AD1</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/75099ad1/</link>
+      <link>http://localhost:1313/profiles/75099ad1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/75099ad1/</guid>
+      <guid>http://localhost:1313/profiles/75099ad1/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;MANAA - Ecole Olivier de Serres, Paris (Mise à Niveau en Art Appliqués)
 BTS - Ecole Estienne, Paris (Arts appliqués, digital media)
@@ -23,9 +23,9 @@ MA - Central Saint Martins, Londres (digital media)&lt;/p&gt;
     </item>
     <item>
       <title>89D8CF86</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/89d8cf86/</link>
+      <link>http://localhost:1313/profiles/89d8cf86/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/89d8cf86/</guid>
+      <guid>http://localhost:1313/profiles/89d8cf86/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;BTS opticien lunetier + licence optométrie contactologie&lt;/p&gt;
 &lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;
@@ -35,9 +35,9 @@ MA - Central Saint Martins, Londres (digital media)&lt;/p&gt;
     </item>
     <item>
       <title>9DFA240C</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/9dfa240c/</link>
+      <link>http://localhost:1313/profiles/9dfa240c/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/9dfa240c/</guid>
+      <guid>http://localhost:1313/profiles/9dfa240c/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;2020 : BTS gestion d’entreprise
 2021 : Bachelor gestion d’affaires immobilières (École supérieure des professions immobilières)
@@ -50,9 +50,9 @@ Business controller : responsable de la gestion budgétaire, de la production de
     </item>
     <item>
       <title>AE2BBD50</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/ae2bbd50/</link>
+      <link>http://localhost:1313/profiles/ae2bbd50/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/ae2bbd50/</guid>
+      <guid>http://localhost:1313/profiles/ae2bbd50/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;BAC S, L1 mathématiques fondamentales, BTS NDRC&lt;/p&gt;
 &lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;
@@ -62,9 +62,9 @@ Business controller : responsable de la gestion budgétaire, de la production de
     </item>
     <item>
       <title>B692FD07</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/b692fd07/</link>
+      <link>http://localhost:1313/profiles/b692fd07/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/b692fd07/</guid>
+      <guid>http://localhost:1313/profiles/b692fd07/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;BAC scientifique au lycée de Bazas, BTS Audiovisuel options Image au lycée des Arènes de Toulouse (tournage caméra, lumière, réalisation&amp;hellip;), Licence Information-Communication à Bordeaux 3, DUT et Licence pro de Journalisme à l&amp;rsquo;EPJT (Ecole Publique de Journalisme de Tours)&lt;/p&gt;
 &lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;

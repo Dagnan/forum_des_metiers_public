@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Santé on Annuaire Des Lycéens de Bazas</title>
-    <link>https://annuairedeslyceensdebazas.fr/etudes/sant%C3%A9/</link>
+    <link>http://localhost:1313/etudes/sant%C3%A9/</link>
     <description>Recent content in Santé on Annuaire Des Lycéens de Bazas</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>fr</language>
-    <atom:link href="https://annuairedeslyceensdebazas.fr/etudes/sant%C3%A9/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/etudes/sant%C3%A9/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>278C107F</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/278c107f/</link>
+      <link>http://localhost:1313/profiles/278c107f/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/278c107f/</guid>
+      <guid>http://localhost:1313/profiles/278c107f/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;Infirmière diplôme d’état (3ans) -&amp;gt; concours pour rentrer en école de puéricultrice pendant la 3eme année d’école d’infirmière -&amp;gt; puéricultrice (1ans)&lt;/p&gt;
 &lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;
@@ -21,9 +21,9 @@
     </item>
     <item>
       <title>2EFA678E</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/2efa678e/</link>
+      <link>http://localhost:1313/profiles/2efa678e/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/2efa678e/</guid>
+      <guid>http://localhost:1313/profiles/2efa678e/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;Études vétérinaires en Belgique après avoir réalisé 1 année de prépa BCPST en France.&lt;/p&gt;
 &lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;
@@ -33,9 +33,9 @@
     </item>
     <item>
       <title>771D2424</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/771d2424/</link>
+      <link>http://localhost:1313/profiles/771d2424/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/771d2424/</guid>
+      <guid>http://localhost:1313/profiles/771d2424/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;Bac S, PACES, Docteur en chirurgie dentaire&lt;/p&gt;
 &lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;
@@ -45,9 +45,9 @@
     </item>
     <item>
       <title>860098C2</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/860098c2/</link>
+      <link>http://localhost:1313/profiles/860098c2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/860098c2/</guid>
+      <guid>http://localhost:1313/profiles/860098c2/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;PACES puis licence Sciences de la Vie et master Santé Publique dont master 2 Epidémiologie&lt;/p&gt;
 &lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;
@@ -55,9 +55,9 @@
     </item>
     <item>
       <title>89692A35</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/89692a35/</link>
+      <link>http://localhost:1313/profiles/89692a35/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/89692a35/</guid>
+      <guid>http://localhost:1313/profiles/89692a35/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;Orthophoniste&lt;/p&gt;
 &lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;
@@ -65,9 +65,9 @@
     </item>
     <item>
       <title>A38ACFE4</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/a38acfe4/</link>
+      <link>http://localhost:1313/profiles/a38acfe4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/a38acfe4/</guid>
+      <guid>http://localhost:1313/profiles/a38acfe4/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;2014-2015 Prépa PCSi
 2015-2016 Licence 2 Chimie
@@ -79,9 +79,9 @@
     </item>
     <item>
       <title>A6007D56</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/a6007d56/</link>
+      <link>http://localhost:1313/profiles/a6007d56/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/a6007d56/</guid>
+      <guid>http://localhost:1313/profiles/a6007d56/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;Diplome d&amp;rsquo;état psychomotricité&lt;/p&gt;
 &lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;
@@ -94,9 +94,9 @@ Mailing - RH - integrations comptables - facturation et relance client - relatio
     </item>
     <item>
       <title>CB2E7411</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/cb2e7411/</link>
+      <link>http://localhost:1313/profiles/cb2e7411/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/cb2e7411/</guid>
+      <guid>http://localhost:1313/profiles/cb2e7411/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;Interne en 1ere année de psychiatrie donc je suis passée par les 6 premières années de tronc commun d’études de médecine avant le choix de spécialité pour l’internat&lt;/p&gt;
 &lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;
@@ -106,9 +106,9 @@ Mailing - RH - integrations comptables - facturation et relance client - relatio
     </item>
     <item>
       <title>EE994F9C</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/ee994f9c/</link>
+      <link>http://localhost:1313/profiles/ee994f9c/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/ee994f9c/</guid>
+      <guid>http://localhost:1313/profiles/ee994f9c/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;Kinésithérapeute je me suis formé ensuite sur diverses formations en thérapie manuelle&lt;/p&gt;
 &lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;
@@ -118,9 +118,9 @@ Mailing - RH - integrations comptables - facturation et relance client - relatio
     </item>
     <item>
       <title>F8315705</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/f8315705/</link>
+      <link>http://localhost:1313/profiles/f8315705/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/f8315705/</guid>
+      <guid>http://localhost:1313/profiles/f8315705/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;PACES deux années puis concours infirmiers. IDE en 2015&lt;/p&gt;
 &lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Kinésithérapeute on Annuaire Des Lycéens de Bazas</title>
-    <link>https://annuairedeslyceensdebazas.fr/professions/kin%C3%A9sith%C3%A9rapeute/</link>
+    <link>http://localhost:1313/professions/kin%C3%A9sith%C3%A9rapeute/</link>
     <description>Recent content in Kinésithérapeute on Annuaire Des Lycéens de Bazas</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>fr</language>
-    <atom:link href="https://annuairedeslyceensdebazas.fr/professions/kin%C3%A9sith%C3%A9rapeute/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/professions/kin%C3%A9sith%C3%A9rapeute/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EE994F9C</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/ee994f9c/</link>
+      <link>http://localhost:1313/profiles/ee994f9c/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/ee994f9c/</guid>
+      <guid>http://localhost:1313/profiles/ee994f9c/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;Kinésithérapeute je me suis formé ensuite sur diverses formations en thérapie manuelle&lt;/p&gt;
 &lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;

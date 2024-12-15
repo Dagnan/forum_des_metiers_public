@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Service Public on Annuaire Des Lycéens de Bazas</title>
-    <link>https://annuairedeslyceensdebazas.fr/secteurs/service-public/</link>
+    <link>http://localhost:1313/secteurs/service-public/</link>
     <description>Recent content in Service Public on Annuaire Des Lycéens de Bazas</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>fr</language>
-    <atom:link href="https://annuairedeslyceensdebazas.fr/secteurs/service-public/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/secteurs/service-public/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>06B8105F</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/06b8105f/</link>
+      <link>http://localhost:1313/profiles/06b8105f/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/06b8105f/</guid>
+      <guid>http://localhost:1313/profiles/06b8105f/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;Après le bac j&amp;rsquo;ai fait une prépa MPSI/MP à Bordeaux au lycée Montaigne, puis à la suite des concours j&amp;rsquo;ai intégré l&amp;rsquo;ENTPE, une école d&amp;rsquo;ingénieur à Lyon, en tant que fonctionnaire. J&amp;rsquo;ai été formée en aménagement du territoire, plus spécifiquement en transport.&lt;/p&gt;
 &lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;
@@ -20,9 +20,9 @@ J&amp;rsquo;ai pris mon premier poste en Octobre 2024 au sein de la DREAL Norman
     </item>
     <item>
       <title>0C1048E1</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/0c1048e1/</link>
+      <link>http://localhost:1313/profiles/0c1048e1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/0c1048e1/</guid>
+      <guid>http://localhost:1313/profiles/0c1048e1/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;Licence Staps Activités adaptées et santé
 Concours Caporal de sapeur pompier professionnel&lt;/p&gt;
@@ -34,9 +34,9 @@ Préparation aux épreuves du concours de sapeur pompier, fonctionnement du mét
     </item>
     <item>
       <title>2E871DB6</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/2e871db6/</link>
+      <link>http://localhost:1313/profiles/2e871db6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/2e871db6/</guid>
+      <guid>http://localhost:1313/profiles/2e871db6/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;2017-2019 : paces
 2021-2022 : service civique
@@ -48,9 +48,9 @@ Préparation aux épreuves du concours de sapeur pompier, fonctionnement du mét
     </item>
     <item>
       <title>507F8C16</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/507f8c16/</link>
+      <link>http://localhost:1313/profiles/507f8c16/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/507f8c16/</guid>
+      <guid>http://localhost:1313/profiles/507f8c16/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;Master 2 Physique
 Capes sciences physiques&lt;/p&gt;
@@ -62,9 +62,9 @@ Musicien&lt;/p&gt;
     </item>
     <item>
       <title>8CF89F1F</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/8cf89f1f/</link>
+      <link>http://localhost:1313/profiles/8cf89f1f/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/8cf89f1f/</guid>
+      <guid>http://localhost:1313/profiles/8cf89f1f/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;Licence de Psychologie (Bordeaux / Prague) + Master MEEF option Professeur des écoles + Certificat de capacité en Orthoptie (obtention juillet 2024)&lt;/p&gt;
 &lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;
@@ -73,9 +73,9 @@ Musicien&lt;/p&gt;
     </item>
     <item>
       <title>C4B07081</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/c4b07081/</link>
+      <link>http://localhost:1313/profiles/c4b07081/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/c4b07081/</guid>
+      <guid>http://localhost:1313/profiles/c4b07081/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;Bac +3 à l&amp;rsquo;Icart (école privée) mais aujourd&amp;rsquo;hui 9 ans d&amp;rsquo;expérience professionnelle dans le public + formatrice&lt;/p&gt;
 &lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;
@@ -84,9 +84,9 @@ Musicien&lt;/p&gt;
     </item>
     <item>
       <title>DCEF9D6D</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/dcef9d6d/</link>
+      <link>http://localhost:1313/profiles/dcef9d6d/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/dcef9d6d/</guid>
+      <guid>http://localhost:1313/profiles/dcef9d6d/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;Licence STAPS - Master MEEF&lt;/p&gt;
 &lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;

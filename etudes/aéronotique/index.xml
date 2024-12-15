@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Aéronotique on Annuaire Des Lycéens de Bazas</title>
-    <link>https://annuairedeslyceensdebazas.fr/etudes/a%C3%A9ronotique/</link>
+    <link>http://localhost:1313/etudes/a%C3%A9ronotique/</link>
     <description>Recent content in Aéronotique on Annuaire Des Lycéens de Bazas</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>fr</language>
-    <atom:link href="https://annuairedeslyceensdebazas.fr/etudes/a%C3%A9ronotique/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/etudes/a%C3%A9ronotique/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>981019D4</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/981019d4/</link>
+      <link>http://localhost:1313/profiles/981019d4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/981019d4/</guid>
+      <guid>http://localhost:1313/profiles/981019d4/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;Dut génie mécanique et productive
 Licence professionnelle maintenance aéronautique

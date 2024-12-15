@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ingénieur on Annuaire Des Lycéens de Bazas</title>
-    <link>https://annuairedeslyceensdebazas.fr/etudes/ing%C3%A9nieur/</link>
+    <link>http://localhost:1313/etudes/ing%C3%A9nieur/</link>
     <description>Recent content in Ingénieur on Annuaire Des Lycéens de Bazas</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>fr</language>
-    <atom:link href="https://annuairedeslyceensdebazas.fr/etudes/ing%C3%A9nieur/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/etudes/ing%C3%A9nieur/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>06B8105F</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/06b8105f/</link>
+      <link>http://localhost:1313/profiles/06b8105f/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/06b8105f/</guid>
+      <guid>http://localhost:1313/profiles/06b8105f/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;Après le bac j&amp;rsquo;ai fait une prépa MPSI/MP à Bordeaux au lycée Montaigne, puis à la suite des concours j&amp;rsquo;ai intégré l&amp;rsquo;ENTPE, une école d&amp;rsquo;ingénieur à Lyon, en tant que fonctionnaire. J&amp;rsquo;ai été formée en aménagement du territoire, plus spécifiquement en transport.&lt;/p&gt;
 &lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;
@@ -20,9 +20,9 @@ J&amp;rsquo;ai pris mon premier poste en Octobre 2024 au sein de la DREAL Norman
     </item>
     <item>
       <title>1545CE42</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/1545ce42/</link>
+      <link>http://localhost:1313/profiles/1545ce42/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/1545ce42/</guid>
+      <guid>http://localhost:1313/profiles/1545ce42/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;École d&amp;rsquo;ingénieur en informatique (CY-TECH) dont 2 ans de prépa intégrée, à Pau → Diplôme ingénieur en information
 Diplome d&amp;rsquo;administration des entreprises (IAE de Pau)&lt;/p&gt;
@@ -43,9 +43,9 @@ Diplome d&amp;rsquo;administration des entreprises (IAE de Pau)&lt;/p&gt;
     </item>
     <item>
       <title>5BD2E771</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/5bd2e771/</link>
+      <link>http://localhost:1313/profiles/5bd2e771/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/5bd2e771/</guid>
+      <guid>http://localhost:1313/profiles/5bd2e771/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;BTS Aéronautique / Ecole d&amp;rsquo;ingénieur Maintenance et Production Industrielle&lt;/p&gt;
 &lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;
@@ -55,9 +55,9 @@ Diplome d&amp;rsquo;administration des entreprises (IAE de Pau)&lt;/p&gt;
     </item>
     <item>
       <title>63D76A7C</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/63d76a7c/</link>
+      <link>http://localhost:1313/profiles/63d76a7c/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/63d76a7c/</guid>
+      <guid>http://localhost:1313/profiles/63d76a7c/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;Après un BAC S option physique chimie en 2007, j&amp;rsquo;ai fait un cursus de 5 ans dans une école d&amp;rsquo;ingénieur généraliste post-bac, l&amp;rsquo;EPF à Sceaux. J&amp;rsquo;ai passé un an dans une université au Québec dans le cadre de cette formation. Mon diplôme est orienté gestion de projet, mécanique et environnement.&lt;/p&gt;
 &lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;
@@ -66,9 +66,9 @@ Il s&amp;rsquo;agit d&amp;rsquo;un métier multicasquettes : commerce, recruteme
     </item>
     <item>
       <title>8CC2B04B</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/8cc2b04b/</link>
+      <link>http://localhost:1313/profiles/8cc2b04b/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/8cc2b04b/</guid>
+      <guid>http://localhost:1313/profiles/8cc2b04b/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;Prépa au lycée Montaigne à Bordeaux
 Diplôme d&amp;rsquo;ingénieur à CentraleSupélec&lt;/p&gt;
@@ -79,9 +79,9 @@ Diplôme d&amp;rsquo;ingénieur à CentraleSupélec&lt;/p&gt;
     </item>
     <item>
       <title>CBC54315</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/cbc54315/</link>
+      <link>http://localhost:1313/profiles/cbc54315/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/cbc54315/</guid>
+      <guid>http://localhost:1313/profiles/cbc54315/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;Après un Bac S obtenu en 2006, j&amp;rsquo;ai fait un DUT Mesures Physiques à Bordeaux (obtenu en 2008), puis un an de prépa ATS aussi à Bordeaux, qui m&amp;rsquo;a permis de rentrer à l&amp;rsquo;INSA Rouen. Et j&amp;rsquo;ai fait ma dernière année d&amp;rsquo;école d&amp;rsquo;ingé en double diplôme avec l&amp;rsquo;université de Cranfield en Angleterre, que j&amp;rsquo;ai donc obtenu en 2012&lt;/p&gt;
 &lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;
@@ -89,9 +89,9 @@ Diplôme d&amp;rsquo;ingénieur à CentraleSupélec&lt;/p&gt;
     </item>
     <item>
       <title>FD490863</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/fd490863/</link>
+      <link>http://localhost:1313/profiles/fd490863/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/fd490863/</guid>
+      <guid>http://localhost:1313/profiles/fd490863/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;Prépa Physique-Chimie - Lycée Montaigne (Bdx)
 Diplôme d&amp;rsquo;ingénieur Institut d&amp;rsquo;Optique (SupOptique) : d&amp;rsquo;abord tronc commun en physique/optique/numérique puis ERASMUS en Norvège : changement climatique / gestion des ressources

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Licence 2b2m on Annuaire Des Lycéens de Bazas</title>
-    <link>https://annuairedeslyceensdebazas.fr/etudes/licence-2b2m/</link>
+    <link>http://localhost:1313/etudes/licence-2b2m/</link>
     <description>Recent content in Licence 2b2m on Annuaire Des Lycéens de Bazas</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>fr</language>
-    <atom:link href="https://annuairedeslyceensdebazas.fr/etudes/licence-2b2m/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/etudes/licence-2b2m/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>5816C1BE</title>
-      <link>https://annuairedeslyceensdebazas.fr/profiles/5816c1be/</link>
+      <link>http://localhost:1313/profiles/5816c1be/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/profiles/5816c1be/</guid>
+      <guid>http://localhost:1313/profiles/5816c1be/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;Licence 2b2m (biologie moléculaire, microbiologie et biochimie) puis Master anglophone SFB (structural and functional biochemistry)&lt;/p&gt;
 &lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;
