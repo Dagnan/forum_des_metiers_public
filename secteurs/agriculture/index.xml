@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Agriculture on My New Hugo Site</title>
-    <link>http://localhost:1313/secteurs/agriculture/</link>
-    <description>Recent content in Agriculture on My New Hugo Site</description>
+    <title>Agriculture on Annuaire Des Lycéens de Bazas</title>
+    <link>https://annuairedeslyceensdebazas.fr/secteurs/agriculture/</link>
+    <description>Recent content in Agriculture on Annuaire Des Lycéens de Bazas</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>fr</language>
-    <atom:link href="http://localhost:1313/secteurs/agriculture/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://annuairedeslyceensdebazas.fr/secteurs/agriculture/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>B25F8951</title>
-      <link>http://localhost:1313/profiles/b25f8951/</link>
+      <link>https://annuairedeslyceensdebazas.fr/profiles/b25f8951/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/profiles/b25f8951/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/profiles/b25f8951/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;M2 - Droit de l&amp;rsquo;activité agricole et de l&amp;rsquo;espace rural (agriculture, forêt, foncier, environnement, ect.).&lt;/p&gt;
 &lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;
@@ -21,9 +21,9 @@
     </item>
     <item>
       <title>FD490863</title>
-      <link>http://localhost:1313/profiles/fd490863/</link>
+      <link>https://annuairedeslyceensdebazas.fr/profiles/fd490863/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/profiles/fd490863/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/profiles/fd490863/</guid>
       <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
 &lt;p&gt;Prépa Physique-Chimie - Lycée Montaigne (Bdx)
 Diplôme d&amp;rsquo;ingénieur Institut d&amp;rsquo;Optique (SupOptique) : d&amp;rsquo;abord tronc commun en physique/optique/numérique puis ERASMUS en Norvège : changement climatique / gestion des ressources

@@ -1,272 +1,272 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Etudes on My New Hugo Site</title>
-    <link>http://localhost:1313/etudes/</link>
-    <description>Recent content in Etudes on My New Hugo Site</description>
+    <title>Etudes on Annuaire Des Lycéens de Bazas</title>
+    <link>https://annuairedeslyceensdebazas.fr/etudes/</link>
+    <description>Recent content in Etudes on Annuaire Des Lycéens de Bazas</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>fr</language>
-    <atom:link href="http://localhost:1313/etudes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://annuairedeslyceensdebazas.fr/etudes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BAC&#43;2</title>
-      <link>http://localhost:1313/etudes/bac&#43;2/</link>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/bac&#43;2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etudes/bac&#43;2/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/bac&#43;2/</guid>
       <description></description>
     </item>
     <item>
       <title>BAC&#43;3</title>
-      <link>http://localhost:1313/etudes/bac&#43;3/</link>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/bac&#43;3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etudes/bac&#43;3/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/bac&#43;3/</guid>
       <description></description>
     </item>
     <item>
       <title>BAC&#43;5</title>
-      <link>http://localhost:1313/etudes/bac&#43;5/</link>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/bac&#43;5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etudes/bac&#43;5/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/bac&#43;5/</guid>
       <description></description>
     </item>
     <item>
       <title>BAC&#43;6</title>
-      <link>http://localhost:1313/etudes/bac&#43;6/</link>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/bac&#43;6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etudes/bac&#43;6/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/bac&#43;6/</guid>
       <description></description>
     </item>
     <item>
       <title>Docteur</title>
-      <link>http://localhost:1313/etudes/docteur/</link>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/docteur/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etudes/docteur/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/docteur/</guid>
       <description></description>
     </item>
     <item>
       <title>Docteur en Chirurgie Dentaire</title>
-      <link>http://localhost:1313/etudes/docteur-en-chirurgie-dentaire/</link>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/docteur-en-chirurgie-dentaire/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etudes/docteur-en-chirurgie-dentaire/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/docteur-en-chirurgie-dentaire/</guid>
       <description></description>
     </item>
     <item>
       <title>DORA (DOsimetrie Et Radioprotection Médicale)</title>
-      <link>http://localhost:1313/etudes/dora-dosimetrie-et-radioprotection-m%C3%A9dicale/</link>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/dora-dosimetrie-et-radioprotection-m%C3%A9dicale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etudes/dora-dosimetrie-et-radioprotection-m%C3%A9dicale/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/dora-dosimetrie-et-radioprotection-m%C3%A9dicale/</guid>
       <description></description>
     </item>
     <item>
       <title>Droit</title>
-      <link>http://localhost:1313/etudes/droit/</link>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/droit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etudes/droit/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/droit/</guid>
       <description></description>
     </item>
     <item>
       <title>Droit De L&#39;activité Agricole Et De L&#39;espace Rural</title>
-      <link>http://localhost:1313/etudes/droit-de-lactivit%C3%A9-agricole-et-de-lespace-rural/</link>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/droit-de-lactivit%C3%A9-agricole-et-de-lespace-rural/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etudes/droit-de-lactivit%C3%A9-agricole-et-de-lespace-rural/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/droit-de-lactivit%C3%A9-agricole-et-de-lespace-rural/</guid>
       <description></description>
     </item>
     <item>
       <title>Géologie</title>
-      <link>http://localhost:1313/etudes/g%C3%A9ologie/</link>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/g%C3%A9ologie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etudes/g%C3%A9ologie/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/g%C3%A9ologie/</guid>
       <description></description>
     </item>
     <item>
       <title>Gestion De Projet Mécanique Et Environnement</title>
-      <link>http://localhost:1313/etudes/gestion-de-projet-m%C3%A9canique-et-environnement/</link>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/gestion-de-projet-m%C3%A9canique-et-environnement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etudes/gestion-de-projet-m%C3%A9canique-et-environnement/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/gestion-de-projet-m%C3%A9canique-et-environnement/</guid>
       <description></description>
     </item>
     <item>
       <title>Gestion Des Enterprises Et Administration</title>
-      <link>http://localhost:1313/etudes/gestion-des-enterprises-et-administration/</link>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/gestion-des-enterprises-et-administration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etudes/gestion-des-enterprises-et-administration/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/gestion-des-enterprises-et-administration/</guid>
       <description></description>
     </item>
     <item>
       <title>Infirmier</title>
-      <link>http://localhost:1313/etudes/infirmier/</link>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/infirmier/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etudes/infirmier/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/infirmier/</guid>
       <description></description>
     </item>
     <item>
       <title>Informatique</title>
-      <link>http://localhost:1313/etudes/informatique/</link>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/informatique/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etudes/informatique/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/informatique/</guid>
       <description></description>
     </item>
     <item>
       <title>Ingénieur</title>
-      <link>http://localhost:1313/etudes/ing%C3%A9nieur/</link>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/ing%C3%A9nieur/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etudes/ing%C3%A9nieur/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/ing%C3%A9nieur/</guid>
       <description></description>
     </item>
     <item>
       <title>Licence Pro Communication Et Valorisation De La Création Artistique</title>
-      <link>http://localhost:1313/etudes/licence-pro-communication-et-valorisation-de-la-cr%C3%A9ation-artistique/</link>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/licence-pro-communication-et-valorisation-de-la-cr%C3%A9ation-artistique/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etudes/licence-pro-communication-et-valorisation-de-la-cr%C3%A9ation-artistique/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/licence-pro-communication-et-valorisation-de-la-cr%C3%A9ation-artistique/</guid>
       <description></description>
     </item>
     <item>
       <title>License Pro</title>
-      <link>http://localhost:1313/etudes/license-pro/</link>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/license-pro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etudes/license-pro/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/license-pro/</guid>
       <description></description>
     </item>
     <item>
       <title>License Pro Journalisme</title>
-      <link>http://localhost:1313/etudes/license-pro-journalisme/</link>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/license-pro-journalisme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etudes/license-pro-journalisme/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/license-pro-journalisme/</guid>
       <description></description>
     </item>
     <item>
       <title>Maintenance Et Production Industrielle</title>
-      <link>http://localhost:1313/etudes/maintenance-et-production-industrielle/</link>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/maintenance-et-production-industrielle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etudes/maintenance-et-production-industrielle/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/maintenance-et-production-industrielle/</guid>
       <description></description>
     </item>
     <item>
       <title>Management De La Culture Et Du Marché De L&#39;art</title>
-      <link>http://localhost:1313/etudes/management-de-la-culture-et-du-march%C3%A9-de-lart/</link>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/management-de-la-culture-et-du-march%C3%A9-de-lart/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etudes/management-de-la-culture-et-du-march%C3%A9-de-lart/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/management-de-la-culture-et-du-march%C3%A9-de-lart/</guid>
       <description></description>
     </item>
     <item>
       <title>Master</title>
-      <link>http://localhost:1313/etudes/master/</link>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/master/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etudes/master/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/master/</guid>
       <description></description>
     </item>
     <item>
       <title>Master Agronomie Et Gestion Des Sols</title>
-      <link>http://localhost:1313/etudes/master-agronomie-et-gestion-des-sols/</link>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/master-agronomie-et-gestion-des-sols/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etudes/master-agronomie-et-gestion-des-sols/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/master-agronomie-et-gestion-des-sols/</guid>
       <description></description>
     </item>
     <item>
       <title>Master D&#39;Ergonomie Cognitive</title>
-      <link>http://localhost:1313/etudes/master-dergonomie-cognitive/</link>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/master-dergonomie-cognitive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etudes/master-dergonomie-cognitive/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/master-dergonomie-cognitive/</guid>
       <description></description>
     </item>
     <item>
       <title>Master Droit Social</title>
-      <link>http://localhost:1313/etudes/master-droit-social/</link>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/master-droit-social/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etudes/master-droit-social/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/master-droit-social/</guid>
       <description></description>
     </item>
     <item>
       <title>Master en Photonique</title>
-      <link>http://localhost:1313/etudes/master-en-photonique/</link>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/master-en-photonique/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etudes/master-en-photonique/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/master-en-photonique/</guid>
       <description></description>
     </item>
     <item>
       <title>Master Entraînement Et Optimisation De La Performance Sportive</title>
-      <link>http://localhost:1313/etudes/master-entra%C3%AEnement-et-optimisation-de-la-performance-sportive/</link>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/master-entra%C3%AEnement-et-optimisation-de-la-performance-sportive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etudes/master-entra%C3%AEnement-et-optimisation-de-la-performance-sportive/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/master-entra%C3%AEnement-et-optimisation-de-la-performance-sportive/</guid>
       <description></description>
     </item>
     <item>
       <title>Master Histoire</title>
-      <link>http://localhost:1313/etudes/master-histoire/</link>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/master-histoire/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etudes/master-histoire/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/master-histoire/</guid>
       <description></description>
     </item>
     <item>
       <title>Master Informatique</title>
-      <link>http://localhost:1313/etudes/master-informatique/</link>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/master-informatique/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etudes/master-informatique/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/master-informatique/</guid>
       <description></description>
     </item>
     <item>
       <title>Master Jeux Et Medias Interactifs Numériques Spécialité Game Design</title>
-      <link>http://localhost:1313/etudes/master-jeux-et-medias-interactifs-num%C3%A9riques-sp%C3%A9cialit%C3%A9-game-design/</link>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/master-jeux-et-medias-interactifs-num%C3%A9riques-sp%C3%A9cialit%C3%A9-game-design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etudes/master-jeux-et-medias-interactifs-num%C3%A9riques-sp%C3%A9cialit%C3%A9-game-design/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/master-jeux-et-medias-interactifs-num%C3%A9riques-sp%C3%A9cialit%C3%A9-game-design/</guid>
       <description></description>
     </item>
     <item>
       <title>Master Mention Métiers
 De L&#39;enseignement De L&#39;éducation
 Et De La Formation</title>
-      <link>http://localhost:1313/etudes/master-mention-m%C3%A9tiers-de-lenseignement-de-l%C3%A9ducation-et-de-la-formation/</link>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/master-mention-m%C3%A9tiers-de-lenseignement-de-l%C3%A9ducation-et-de-la-formation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etudes/master-mention-m%C3%A9tiers-de-lenseignement-de-l%C3%A9ducation-et-de-la-formation/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/master-mention-m%C3%A9tiers-de-lenseignement-de-l%C3%A9ducation-et-de-la-formation/</guid>
       <description></description>
     </item>
     <item>
       <title>Master Santé Publique</title>
-      <link>http://localhost:1313/etudes/master-sant%C3%A9-publique/</link>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/master-sant%C3%A9-publique/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etudes/master-sant%C3%A9-publique/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/master-sant%C3%A9-publique/</guid>
       <description></description>
     </item>
     <item>
       <title>Négociation Et Digitalisation
 De La Relation Client</title>
-      <link>http://localhost:1313/etudes/n%C3%A9gociation-et-digitalisation-de-la-relation-client/</link>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/n%C3%A9gociation-et-digitalisation-de-la-relation-client/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etudes/n%C3%A9gociation-et-digitalisation-de-la-relation-client/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/n%C3%A9gociation-et-digitalisation-de-la-relation-client/</guid>
       <description></description>
     </item>
     <item>
       <title>PASS (Parcours Accès Santé Spécifique)</title>
-      <link>http://localhost:1313/etudes/pass-parcours-acc%C3%A8s-sant%C3%A9-sp%C3%A9cifique/</link>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/pass-parcours-acc%C3%A8s-sant%C3%A9-sp%C3%A9cifique/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etudes/pass-parcours-acc%C3%A8s-sant%C3%A9-sp%C3%A9cifique/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/pass-parcours-acc%C3%A8s-sant%C3%A9-sp%C3%A9cifique/</guid>
       <description></description>
     </item>
     <item>
       <title>PhD</title>
-      <link>http://localhost:1313/etudes/phd/</link>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/phd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etudes/phd/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/phd/</guid>
       <description></description>
     </item>
     <item>
       <title>Prépa Physique-Chimie</title>
-      <link>http://localhost:1313/etudes/pr%C3%A9pa-physique-chimie/</link>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/pr%C3%A9pa-physique-chimie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etudes/pr%C3%A9pa-physique-chimie/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/pr%C3%A9pa-physique-chimie/</guid>
       <description></description>
     </item>
     <item>
       <title>Santé</title>
-      <link>http://localhost:1313/etudes/sant%C3%A9/</link>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/sant%C3%A9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etudes/sant%C3%A9/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/sant%C3%A9/</guid>
       <description></description>
     </item>
     <item>
       <title>STAPS</title>
-      <link>http://localhost:1313/etudes/staps/</link>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/staps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etudes/staps/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/staps/</guid>
       <description></description>
     </item>
   </channel>
