@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Médecin on My New Hugo Site</title>
-    <link>http://localhost:1313/professions/m%C3%A9decin/</link>
-    <description>Recent content in Médecin on My New Hugo Site</description>
-    <generator>Hugo -- 0.135.0</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 10 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/professions/m%C3%A9decin/index.xml" rel="self" type="application/rss+xml" />
+    <title>Médecin on Annuaire Des Lycéens de Bazas</title>
+    <link>https://annuairedeslyceensdebazas.fr/professions/m%C3%A9decin/</link>
+    <description>Recent content in Médecin on Annuaire Des Lycéens de Bazas</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>fr</language>
+    <atom:link href="https://annuairedeslyceensdebazas.fr/professions/m%C3%A9decin/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Nom Personne</title>
-      <link>http://localhost:1313/profiles.bak/1/</link>
-      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/profiles.bak/1/</guid>
-      <description>Summary in table</description>
+      <title>CB2E7411</title>
+      <link>https://annuairedeslyceensdebazas.fr/profiles/cb2e7411/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annuairedeslyceensdebazas.fr/profiles/cb2e7411/</guid>
+      <description>&lt;h3 id=&#34;études&#34;&gt;Études&lt;/h3&gt;
+&lt;p&gt;Interne en 1ere année de psychiatrie donc je suis passée par les 6 premières années de tronc commun d’études de médecine avant le choix de spécialité pour l’internat&lt;/p&gt;
+&lt;h3 id=&#34;métiers&#34;&gt;Métiers&lt;/h3&gt;
+&lt;p&gt;Participer à la prise en charge et soigner les patients atteints de pathologies psychiatriques. J’ai travaille en détention ainsi qu’en hôpital général.&lt;/p&gt;
+&lt;h3 id=&#34;intéressée-pour-parler-des-sujets&#34;&gt;Intéressé(e) pour parler des sujets&lt;/h3&gt;
+&lt;p&gt;Sur l’ensemble de la formation, les possibilités à côté des études et les débouchés possibles&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

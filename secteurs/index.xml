@@ -29,6 +29,13 @@
       <description></description>
     </item>
     <item>
+      <title>Architecture Urbanisme Paysage</title>
+      <link>https://annuairedeslyceensdebazas.fr/secteurs/architecture-urbanisme-paysage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annuairedeslyceensdebazas.fr/secteurs/architecture-urbanisme-paysage/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Automobile</title>
       <link>https://annuairedeslyceensdebazas.fr/secteurs/automobile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -50,6 +57,13 @@
       <description></description>
     </item>
     <item>
+      <title>Commerce Et Distribution</title>
+      <link>https://annuairedeslyceensdebazas.fr/secteurs/commerce-et-distribution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annuairedeslyceensdebazas.fr/secteurs/commerce-et-distribution/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Communication Et Marketing</title>
       <link>https://annuairedeslyceensdebazas.fr/secteurs/communication-et-marketing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -57,10 +71,10 @@
       <description></description>
     </item>
     <item>
-      <title>Culture - Patrimoine</title>
-      <link>https://annuairedeslyceensdebazas.fr/secteurs/culture---patrimoine/</link>
+      <title>Conseil</title>
+      <link>https://annuairedeslyceensdebazas.fr/secteurs/conseil/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/secteurs/culture---patrimoine/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/secteurs/conseil/</guid>
       <description></description>
     </item>
     <item>
@@ -85,6 +99,13 @@
       <description></description>
     </item>
     <item>
+      <title>Environnement</title>
+      <link>https://annuairedeslyceensdebazas.fr/secteurs/environnement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annuairedeslyceensdebazas.fr/secteurs/environnement/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Fonction Publique</title>
       <link>https://annuairedeslyceensdebazas.fr/secteurs/fonction-publique/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -96,6 +117,20 @@
       <link>https://annuairedeslyceensdebazas.fr/secteurs/gestion-administrative-et-ressources-humaines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://annuairedeslyceensdebazas.fr/secteurs/gestion-administrative-et-ressources-humaines/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Immobilier</title>
+      <link>https://annuairedeslyceensdebazas.fr/secteurs/immobilier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annuairedeslyceensdebazas.fr/secteurs/immobilier/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Industrie Chimique</title>
+      <link>https://annuairedeslyceensdebazas.fr/secteurs/industrie-chimique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annuairedeslyceensdebazas.fr/secteurs/industrie-chimique/</guid>
       <description></description>
     </item>
     <item>
@@ -127,10 +162,24 @@
       <description></description>
     </item>
     <item>
+      <title>Logistique Et Transport</title>
+      <link>https://annuairedeslyceensdebazas.fr/secteurs/logistique-et-transport/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annuairedeslyceensdebazas.fr/secteurs/logistique-et-transport/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Médias</title>
       <link>https://annuairedeslyceensdebazas.fr/secteurs/m%C3%A9dias/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://annuairedeslyceensdebazas.fr/secteurs/m%C3%A9dias/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Numérique</title>
+      <link>https://annuairedeslyceensdebazas.fr/secteurs/num%C3%A9rique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annuairedeslyceensdebazas.fr/secteurs/num%C3%A9rique/</guid>
       <description></description>
     </item>
     <item>
@@ -169,10 +218,24 @@
       <description></description>
     </item>
     <item>
+      <title>Sport Animation Et Loisir</title>
+      <link>https://annuairedeslyceensdebazas.fr/secteurs/sport-animation-et-loisir/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annuairedeslyceensdebazas.fr/secteurs/sport-animation-et-loisir/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Tourisme</title>
       <link>https://annuairedeslyceensdebazas.fr/secteurs/tourisme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://annuairedeslyceensdebazas.fr/secteurs/tourisme/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Transport Et Logistique</title>
+      <link>https://annuairedeslyceensdebazas.fr/secteurs/transport-et-logistique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annuairedeslyceensdebazas.fr/secteurs/transport-et-logistique/</guid>
       <description></description>
     </item>
   </channel>

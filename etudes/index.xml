@@ -8,6 +8,20 @@
     <language>fr</language>
     <atom:link href="https://annuairedeslyceensdebazas.fr/etudes/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Aéronotique</title>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/a%C3%A9ronotique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/a%C3%A9ronotique/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Architecte</title>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/architecte/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/architecte/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>BAC&#43;2</title>
       <link>https://annuairedeslyceensdebazas.fr/etudes/bac&#43;2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -33,6 +47,34 @@
       <link>https://annuairedeslyceensdebazas.fr/etudes/bac&#43;6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://annuairedeslyceensdebazas.fr/etudes/bac&#43;6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BTS</title>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/bts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/bts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BUT MMI</title>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/but-mmi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/but-mmi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chimie</title>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/chimie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/chimie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital Media</title>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/digital-media/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/digital-media/</guid>
       <description></description>
     </item>
     <item>
@@ -68,6 +110,13 @@
       <link>https://annuairedeslyceensdebazas.fr/etudes/droit-de-lactivit%C3%A9-agricole-et-de-lespace-rural/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://annuairedeslyceensdebazas.fr/etudes/droit-de-lactivit%C3%A9-agricole-et-de-lespace-rural/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DUT</title>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/dut/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/dut/</guid>
       <description></description>
     </item>
     <item>
@@ -113,6 +162,34 @@
       <description></description>
     </item>
     <item>
+      <title>Ingérieur</title>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/ing%C3%A9rieur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/ing%C3%A9rieur/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Licence</title>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/licence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/licence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Licence 2b2m</title>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/licence-2b2m/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/licence-2b2m/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Licence Pro</title>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/licence-pro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/licence-pro/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Licence Pro Communication Et Valorisation De La Création Artistique</title>
       <link>https://annuairedeslyceensdebazas.fr/etudes/licence-pro-communication-et-valorisation-de-la-cr%C3%A9ation-artistique/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -120,17 +197,10 @@
       <description></description>
     </item>
     <item>
-      <title>License Pro</title>
-      <link>https://annuairedeslyceensdebazas.fr/etudes/license-pro/</link>
+      <title>Licence Pro Journalisme</title>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/licence-pro-journalisme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/etudes/license-pro/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>License Pro Journalisme</title>
-      <link>https://annuairedeslyceensdebazas.fr/etudes/license-pro-journalisme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://annuairedeslyceensdebazas.fr/etudes/license-pro-journalisme/</guid>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/licence-pro-journalisme/</guid>
       <description></description>
     </item>
     <item>
@@ -190,6 +260,13 @@
       <description></description>
     </item>
     <item>
+      <title>Master Finance</title>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/master-finance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/master-finance/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Master Histoire</title>
       <link>https://annuairedeslyceensdebazas.fr/etudes/master-histoire/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -227,11 +304,25 @@ Et De La Formation</title>
       <description></description>
     </item>
     <item>
+      <title>Médecine</title>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/m%C3%A9decine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/m%C3%A9decine/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Négociation Et Digitalisation
 De La Relation Client</title>
       <link>https://annuairedeslyceensdebazas.fr/etudes/n%C3%A9gociation-et-digitalisation-de-la-relation-client/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://annuairedeslyceensdebazas.fr/etudes/n%C3%A9gociation-et-digitalisation-de-la-relation-client/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Orthophoniste</title>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/orthophoniste/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/orthophoniste/</guid>
       <description></description>
     </item>
     <item>
@@ -242,10 +333,38 @@ De La Relation Client</title>
       <description></description>
     </item>
     <item>
+      <title>Pharmacie</title>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/pharmacie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/pharmacie/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>PhD</title>
       <link>https://annuairedeslyceensdebazas.fr/etudes/phd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://annuairedeslyceensdebazas.fr/etudes/phd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Physique</title>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/physique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/physique/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prépa</title>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/pr%C3%A9pa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/pr%C3%A9pa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prépa BCPST</title>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/pr%C3%A9pa-bcpst/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/pr%C3%A9pa-bcpst/</guid>
       <description></description>
     </item>
     <item>
@@ -267,6 +386,13 @@ De La Relation Client</title>
       <link>https://annuairedeslyceensdebazas.fr/etudes/staps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://annuairedeslyceensdebazas.fr/etudes/staps/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vétérinaire</title>
+      <link>https://annuairedeslyceensdebazas.fr/etudes/v%C3%A9t%C3%A9rinaire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annuairedeslyceensdebazas.fr/etudes/v%C3%A9t%C3%A9rinaire/</guid>
       <description></description>
     </item>
   </channel>
